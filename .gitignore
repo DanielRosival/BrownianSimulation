@@ -3,3 +3,4 @@ Release/
 BrownianSimulation.vcxproj
 BrownianSimulation.vcxproj.filters
 BrownianSimulation.vcxproj.user
+*.vcxproj
