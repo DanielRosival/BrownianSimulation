@@ -1,8 +1,0 @@
-﻿  BrownianSimulation.cpp
-c:\users\danie\source\repos\browniansimulation\browniansimulation\browniansimulation.cpp(50): warning C4018: '<': signed/unsigned mismatch
-c:\users\danie\source\repos\browniansimulation\browniansimulation\browniansimulation.cpp(87): warning C4018: '<': signed/unsigned mismatch
-c:\users\danie\source\repos\browniansimulation\browniansimulation\browniansimulation.cpp(90): warning C4018: '<': signed/unsigned mismatch
-c:\users\danie\source\repos\browniansimulation\browniansimulation\browniansimulation.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\danie\source\repos\browniansimulation\browniansimulation\browniansimulation.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\danie\source\repos\browniansimulation\browniansimulation\browniansimulation.cpp(115): warning C4018: '<': signed/unsigned mismatch
-  BrownianSimulation.vcxproj -> C:\Users\danie\source\repos\BrownianSimulation\Debug\BrownianSimulation.exe
